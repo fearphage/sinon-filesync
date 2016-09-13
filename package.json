@@ -1,0 +1,17 @@
+{
+  "name": "sinon-filesync",
+  "version": "1.0.0",
+  "description": "stubbing fs.readFileSync fails in sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roc",
+  "license": "WTFPL",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "proxyquire": "^1.7.10",
+    "sinon": "^1.17.5"
+  }
+}
